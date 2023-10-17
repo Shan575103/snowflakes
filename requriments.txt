@@ -1,0 +1,2 @@
+# requriments
+snoeflake-connector-python
